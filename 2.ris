@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Greenacre, Michael
+AU  - Groenen, Patrick J. F.
+AU  - Hastie, Trevor
+AU  - D’Enza, Alfonso Iodice
+AU  - Markos, Angelos
+AU  - Tuzhilina, Elena
+PY  - 2022
+DA  - 2022/12/22
+TI  - Principal component analysis
+JO  - Nature Reviews Methods Primers
+SP  - 100
+VL  - 2
+IS  - 1
+AB  - Principal component analysis is a versatile statistical method for reducing a cases-by-variables data table to its essential features, called principal components. Principal components are a few linear combinations of the original variables that maximally explain the variance of all the variables. In the process, the method provides an approximation of the original data table using only these few major components. This Primer presents a comprehensive review of the method’s definition and geometry, as well as the interpretation of its numerical and graphical results. The main graphical result is often in the form of a biplot, using the major components to map the cases and adding the original variables to support the distance interpretation of the cases’ positions. Variants of the method are also treated, such as the analysis of grouped data, as well as the analysis of categorical data, known as correspondence analysis. Also described and illustrated are the latest innovative applications of principal component analysis: for estimating missing values in huge data matrices, sparse component estimation, and the analysis of images, shapes and functions. Supplementary material includes video animations and computer scripts in the R environment.
+SN  - 2662-8449
+UR  - https://doi.org/10.1038/s43586-022-00184-w
+DO  - 10.1038/s43586-022-00184-w
+ID  - Greenacre2022
+ER  - 
